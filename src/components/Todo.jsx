@@ -64,7 +64,7 @@ const Todo = () => {
   }, [todoList])
 
   return (
-    <div className='w-[30rem] h-auto max-h-[32rem] bg-[#FFFFFF] shadow-lg rounded-xl flex flex-col items-center py-[2rem] px-[1.8rem]'>
+    <div className='w-[30rem] h-auto max-h-[32rem] bg-[#FFFFFF] shadow-lg rounded-xl flex flex-col items-center py-[2rem] px-[1.8rem] font-poppins'>
 
       {/* head */}
       <div className='flex items-center justify-center gap-[0.5rem]'>
